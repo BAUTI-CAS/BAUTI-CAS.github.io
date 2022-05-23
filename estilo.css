@@ -1,0 +1,84 @@
+*{
+	background-color: #8A9093;
+	font-family: Calibri,sans-serif;
+    flex-wrap: wrap;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+.nav{
+    
+}
+
+.soybauti{
+    text-align: center;
+    font-size: 100px;  
+    margin-bottom: 1px;
+}   
+
+.qsoy{
+    text-align: center;
+    font-size: 20px;
+    color: #1E69C4;
+}
+
+.sobre-mi{
+    background: #1E69C4;
+    flex-wrap: wrap;
+    padding: 3px;
+    margin-left: 90px;
+    margin-right: 90px;
+    border-radius: 6px;
+    font-size: 19px;
+}
+
+.Skillsets{
+    text-align: center;
+}
+
+.Img-Skillsets{
+    text-align: center;
+}
+
+.imagenhtml{
+    max-width: 120px;
+    text-align: center;
+    display: inline-block;
+}
+
+.imagencss{
+    max-width: 130px;
+    text-align: center;
+    display: inline-block;
+}
+
+.Misproyectos{
+    text-align: center;
+}
+
+.Pag-1{
+    text-align: center;
+    background-color: #1E69C4;
+    border-radius: 6px;
+    font-size: 19px;
+
+    margin-left: 480px;
+    margin-right: 480px;
+}
+
+
+footer{
+    clear: both;
+}
+
+footer div{
+    font-size: 20px;
+    text-align: center;
+    padding: 1px;
+    font-style: italic;
+    background-color: #1E69C4;
+}
+
